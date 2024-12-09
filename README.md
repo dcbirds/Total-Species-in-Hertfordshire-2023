@@ -9,3 +9,5 @@ OS 1 km grids derived from Ordnance Survey GitHub https://github.com/charlesrope
 Hertfordshire County and District Boundaries downloaded from Mapit https://mapit.mysociety.org/areas/DIS.html and is Ordnance Survey data © Crown copyright and database rights; NISRA data © Crown copyright; Royal Mail data © Royal Mail copyright and database rights (Code-Point Open); National Statistics data © Crown copyright and database rights (ONSPD)., Places with a population greater than 1000 are labelled with data derived from OpenSoft https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/export/?disjunctive.country&refine.country=United+Kingdom&disjunctive.cou_name_en
 
 Deployed page link: https://dcbirds.github.io/Total-Species-in-Hertfordshire-2023/#10/51.8407/-0.2751
+
+Excellent guidance for producing and publishing qgis2web maps to GitHub https://www.youtube.com/watch?v=JEzKWHdi49o and https://www.youtube.com/watch?v=zlBsiuhYVps.
