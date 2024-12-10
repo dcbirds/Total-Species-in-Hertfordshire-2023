@@ -12,7 +12,7 @@ Excellent guidance for producing and publishing qgis2web maps to GitHub https://
 
 Summary Statistics for 2023
 
-Most species: 142 in TL3712
+Most species: 142 in TL3712 \n
 Percentage of squares with at least one species recorded: 67% 
 Mean Number of Species per Square: 14
 Mean Number of Species per Square (excluding 0'species): 21
