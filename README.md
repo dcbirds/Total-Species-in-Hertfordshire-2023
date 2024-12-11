@@ -19,8 +19,6 @@ Mean Number of Species per Square (excluding 0'species): 21 <br />
 Median Number of Species per Square: 3 <br />
 Median Number of Species per Square (excluding 0'species): 12
 
-Deployed page link: https://dcbirds.github.io/Total-Species-in-Hertfordshire-2023/#10/51.8407/-0.2751
-
 Species per Borough for 2023
 
 East Hertfordshire 172 <br />
@@ -31,4 +29,6 @@ Broxbourne 139 <br />
 North Hertfordshire 134 <br />
 St Albans City 134 <br />
 Three Rivers 131 <br />
-Watford 79 
+Watford 79 <br />
+
+Deployed page link: https://dcbirds.github.io/Total-Species-in-Hertfordshire-2023/#10/51.8407/-0.2751
