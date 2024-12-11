@@ -29,6 +29,7 @@ Broxbourne 139 <br />
 North Hertfordshire 134 <br />
 St Albans City 134 <br />
 Three Rivers 131 <br />
+Stevenage 113 <br />
 Watford 79 <br />
 
 Deployed page link: https://dcbirds.github.io/Total-Species-in-Hertfordshire-2023/#10/51.8407/-0.2751
