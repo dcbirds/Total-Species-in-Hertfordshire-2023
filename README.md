@@ -32,4 +32,17 @@ Three Rivers 131 <br />
 Stevenage 113 <br />
 Watford 79 <br />
 
+Empty Squares per Borough for 2023
+
+East Hertfordshire 200 <br />
+North Hertfordshire 165 <br />
+Dacorum 113 <br />
+Welwyn Hatfield 53 <br />
+Hertsmere 52 <br />
+Broxbourne 27 <br />
+St Albans City 22 <br />
+Three Rivers 22 <br />
+Watford 2 <br />
+Stevenage 1 <br />
+
 Deployed page link: https://dcbirds.github.io/Total-Species-in-Hertfordshire-2023/#10/51.8407/-0.2751
